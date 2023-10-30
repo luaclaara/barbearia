@@ -48,7 +48,7 @@ nav a:hover {
   text-align: center;
   width: 30%;
   vertical-align: top;
-  margin: 0 15%;
+  margin: 0 25%;
   padding: 30px 20px;
   box-sizing: border-box;
   border: 2px solid #000000;
@@ -135,7 +135,7 @@ form legend {
 }
 
 table {
-  margin: 20px 0 40px;
+  margin: 20px 1 40px;
 }
 
 thead {
@@ -158,7 +158,7 @@ th {
 .titulo-principal {
   text-align: center;
   font-size: 2em;
-  margin: 0 0 1em;
+  margin: 1 0 1em;
   clear: left;
 }
 
@@ -166,7 +166,7 @@ th {
   padding: 3em 0;
   background: #fefefe;
   width: 940px;
-  margin: 0 auto;
+  margin: 1 auto;
 }
 
 .principal p {
@@ -184,7 +184,7 @@ th {
 .utensilios {
   width: 120px;
   float: left;
-  margin: 0 20px 20px 0;
+  margin: 1 20px 20px 0;
 }
 
 .mapa {
@@ -194,11 +194,11 @@ th {
 
 .mapa-conteudo {
   width: 940px;
-  margin: 0 auto;
+  margin: 1 auto;
 }
 
 .mapa p {
-  margin: 0 0 2em;
+  margin: 1 0 2em;
   text-align: center;
 }
 
@@ -209,7 +209,7 @@ th {
 
 .conteudo-beneficios {
   width: 640px;
-  margin: 0 auto;
+  margin: 1 auto;
 }
 
 .lista-beneficios {
@@ -243,7 +243,7 @@ th {
 
 .video {
   width: 560px;
-  margin: 2em auto;
+  margin: 3em auto;
 }
 
 @media screen and (max-width: 480px) {
@@ -266,11 +266,11 @@ th {
   nav {
     position: static;
     width: 80%;
-    margin: 0px auto;
+    margin: 1px auto;
   }
 
   .principal p {
-    margin: 0px 10px 1em;
+    margin: 1px 10px 1em;
   }
 
   .lista-beneficios,
